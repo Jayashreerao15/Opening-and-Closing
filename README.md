@@ -1,12 +1,18 @@
-# Opening and Closing
+## EX.NO: 01<br>
+## DATE:
+## <p align="center">OPENING AND CLOSING</p>
 
 ## Aim:
+
 To implement Opening and Closing using Python and OpenCV.
 
 ## Software Required:
+
 1. Anaconda - Python 3.7
 2. OpenCV
+
 ## Algorithm:
+
 ### Step 1:
 Import the necessary packages
 ### Step 2:
@@ -23,10 +29,10 @@ Display all the output images
  
 ## Program:
 
-``` Python
-# Developed By   : Jayashree Rao V
-# Register Number: 212220230023
+### Developed By   : Jayashree Rao V
+### Register Number: 212220230023
 
+``` Python
 # Import the necessary packages
 import cv2
 import matplotlib.pyplot as plt
